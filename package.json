@@ -1,0 +1,27 @@
+{
+  "name": "reactwebcourse",
+  "version": "1.0.0",
+  "description": "Excerise files from the Udemy React Web Developer Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eash-veera/React-Flux-Loving-Fun.git"
+  },
+  "keywords": [
+    "React",
+    "Test",
+    "Fun"
+  ],
+  "author": "Eshwaran Veerabahu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eash-veera/React-Flux-Loving-Fun/issues"
+  },
+  "homepage": "https://github.com/eash-veera/React-Flux-Loving-Fun#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
